@@ -1,4 +1,0 @@
-INTROSE0915
-===========
-
-TESTING
